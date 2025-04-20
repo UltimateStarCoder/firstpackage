@@ -19,5 +19,8 @@
   "main": "index.js",
   "scripts": {
     "test": "exit 0"
+  },
+  "publishConfig": {
+    "@UltimateStarCoder:registry": "https://npm.pkg.github.com/"
   }
 }
