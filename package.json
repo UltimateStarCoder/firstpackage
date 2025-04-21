@@ -1,5 +1,5 @@
 {
-  "name": "firstpackage",
+  "name": "@ultimatestarcoder/firstpackage",
   "version": "1.0.0",
   "description": "",
   "keywords": [
@@ -21,6 +21,6 @@
     "test": "exit 0"
   },
   "publishConfig": {
-    "@UltimateStarCoder:registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
